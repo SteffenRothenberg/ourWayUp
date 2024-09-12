@@ -27,7 +27,6 @@ The knowledge gained from this course supports the technical and creative aspect
 Moving forward, our focus is on integrating more advanced elements such as:
 - Expansive environments
 - AI-driven NPC behavior
-- Multiplayer functionality
 
 Updates on our progress will follow as we continue to refine and expand the game.
 
